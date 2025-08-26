@@ -15,9 +15,4 @@ The visualization explores the intersection of mathematics and natural forms, sh
 
 ![Algorithmic Art Visualization](https://github.com/nbahador/algorithmic_art/blob/main/algorithmic_art_1.png)
 
-## Key Concepts
-
-- Parametric equations generating organic curves
-- Mathematical patterns mimicking natural growth
-- Algorithmic creation of lifelike motion and forms
-- Emergent complexity from simple mathematical rules
+This work draws inspiration from the artistic works of @yuruyurau.
